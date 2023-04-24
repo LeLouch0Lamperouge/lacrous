@@ -285,6 +285,9 @@ footer .copyright a:focus {
 .posts-thumb {
     margin-left: 15px;
 }
+.posts-thumb a img {
+    width: 100%;
+}
 .post-info {
     display: grid;
 }
